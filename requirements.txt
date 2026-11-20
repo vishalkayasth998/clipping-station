@@ -1,0 +1,3 @@
+# Required
+streamlink>=6.0
+yt-dlp>=2024.1.0

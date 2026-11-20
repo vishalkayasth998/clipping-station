@@ -1,0 +1,24 @@
+# Runtime folders created by the app
+cs_buffer/
+cs_preview/
+Clips/
+Videos/
+
+# Media
+*.ts
+*.mp4
+*.mkv
+*.mov
+*.webm
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

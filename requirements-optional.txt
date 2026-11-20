@@ -1,0 +1,4 @@
+# Optional extras
+faster-whisper>=1.0.0   # captions + speech-aware AI highlight finder (runs locally, no account)
+keyboard>=0.13.5        # global F8 hotkey (Windows; needs admin on macOS/Linux)
+pytchat>=0.5.5          # chat-spike detection for YouTube live streams
